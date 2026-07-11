@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
     <Folder Include="Areas\Identity\Helpers\" />
     <Folder Include="Areas\Patient\" />
     <Folder Include="Controllers\" />
