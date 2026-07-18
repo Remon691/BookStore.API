@@ -300,7 +300,7 @@ GitHub:
 https://github.com/Remon691
 
 LinkedIn:
-[(Add Your LinkedIn Profile)](https://www.linkedin.com/in/remon-samy-2044711b7/)
+https://www.linkedin.com/in/remon-samy-2044711b7/
 
 ---
 
